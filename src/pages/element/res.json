@@ -1,0 +1,27 @@
+{
+    "uid": "rMkJacaVmygn4qexy0dcXsj9jI62",
+    "email": "paspat2121@gmail.com",
+    "emailVerified": false,
+    "displayName": "Phongphat",
+    "isAnonymous": false,
+    "photoURL": "https://avatars.githubusercontent.com/u/130993206?v=4",
+    "providerData": [
+        {
+            "providerId": "github.com",
+            "uid": "130993206",
+            "displayName": "Phongphat",
+            "email": "paspat2121@gmail.com",
+            "phoneNumber": null,
+            "photoURL": "https://avatars.githubusercontent.com/u/130993206?v=4"
+        }
+    ],
+    "stsTokenManager": {
+        "refreshToken": "AMf-vBxDoKeGm2fgybkHcnplTcTxYDrxMffXdLDZ_0sT96m6x2pVZPp3JLPCu4A1ozKd0AZ3t82RN6be2XW2AnuBi6LiNvolVHN_x4HrCW_hWTLgjSZj1KxtJoenOZHMTUsaI_cvnOTN1v00FVEuRGSz4iV2En8qvyhI0PUn_wVdBXjUDFRX2qA6D7a1wLvIX0ARH2aPXII8Jp_6bJY9sUO9_HvynZNoeIYKOaFRHiSnccyOVuwo7j9rB4yqqDpLQ-HLzaIjPih97R7gFg3W98_oAlh1SuKEbQ9PXQJI6Lgoq3lDcwxz4m_t9pxCCIiOsQNAjRSPY3dcLjlgc98FVcA7A0PWRzfMXw",
+        "accessToken": "eyJhbGciOiJSUzI1NiIsImtpZCI6IjAzMmNjMWNiMjg5ZGQ0NjI2YTQzNWQ3Mjk4OWFlNDMyMTJkZWZlNzgiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiUGhvbmdwaGF0IiwicGljdHVyZSI6Imh0dHBzOi8vYXZhdGFycy5naXRodWJ1c2VyY29udGVudC5jb20vdS8xMzA5OTMyMDY_dj00IiwiaXNzIjoiaHR0cHM6Ly9zZWN1cmV0b2tlbi5nb29nbGUuY29tL3JvbmdyYW1lLTk4ZDYwIiwiYXVkIjoicm9uZ3JhbWUtOThkNjAiLCJhdXRoX3RpbWUiOjE3MDMzMTQ4NjAsInVzZXJfaWQiOiJyTWtKYWNhVm15Z240cWV4eTBkY1hzajlqSTYyIiwic3ViIjoick1rSmFjYVZteWduNHFleHkwZGNYc2o5akk2MiIsImlhdCI6MTcwMzMxNDg2MCwiZXhwIjoxNzAzMzE4NDYwLCJlbWFpbCI6InBhc3BhdDIxMjFAZ21haWwuY29tIiwiZW1haWxfdmVyaWZpZWQiOmZhbHNlLCJmaXJlYmFzZSI6eyJpZGVudGl0aWVzIjp7ImdpdGh1Yi5jb20iOlsiMTMwOTkzMjA2Il0sImVtYWlsIjpbInBhc3BhdDIxMjFAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoiZ2l0aHViLmNvbSJ9fQ.T-3DAVQ125lzNcW-eBIPE8UHuPVR2Oz1MrIf4BmB3AVbdNLuPcCtfSrBBMYYHaz1QlJ6ayVGGk2U93H01VElA53TfZ-VC407eaRFtMWBAc8EwT3u2_ctB4r-IfXdKyRmEq0ZM9CEfhMGyaaIqmb4ijYfz2X7eXSZr7z5zmrXeAB9WF5fhwZY5eyuIxiMrMpKbHNUB3StYeDp3kDeMALsDqAWFcNz3b4v6DsbgezwPBSio_zPxppAz4L4_c4tNPg2raQW--Yst82cEP7vHhPj7G9OhqyOfjI-uTkvgWJN4X2CZF0k7SZrzoyyCHnfgsGfOxCSvQWJRrtY7r_5NXZIqg",
+        "expirationTime": 1703318460878
+    },
+    "createdAt": "1703314860491",
+    "lastLoginAt": "1703314860491",
+    "apiKey": "AIzaSyC53VFBXJ8gsofRJddVmWG9R-v6y_Ev3dM",
+    "appName": "[DEFAULT]"
+}
